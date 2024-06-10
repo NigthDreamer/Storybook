@@ -3,7 +3,7 @@ import './MyLabel.css';
 type Size = 'normal' | 'h1' | 'h2' | 'h3';
 type Color = 'text-primary' | 'text-secondary' | 'text-tertiary';
 
-interface Props {
+export interface Props {
 	/**
 	 * Text to display
 	 */
