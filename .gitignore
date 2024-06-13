@@ -25,6 +25,7 @@ dist-ssr
 
 *storybook.log
 .yarn/
+.yarnrc.yml
 
 # Environment Variables
 .env
