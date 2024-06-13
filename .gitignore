@@ -24,6 +24,7 @@ dist-ssr
 *.sw?
 
 *storybook.log
+.yarn/
 
 # Environment Variables
 .env
